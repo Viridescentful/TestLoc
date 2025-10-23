@@ -24,6 +24,8 @@
     </dependencies>
 
     <build>
+        <finalName>myapp</finalName>
+
         <plugins>
             <plugin>
                 <groupId>org.jacoco</groupId>
