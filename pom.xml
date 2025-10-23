@@ -75,7 +75,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>org.LecTest</mainClass>
+                            <mainClass>org.example.LecTest</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
